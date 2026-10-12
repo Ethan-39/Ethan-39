@@ -28,6 +28,18 @@
 
 ## Supporting Projects
 
+### Grid Carbon Signal
+
+可复现的合成电网碳强度条件预测练习：按时间切分训练与测试，和星期-小时均值基线比较，并列出次日低碳强度候选时间窗。固定种子仿真 MAE 为 8.60，对照基线为 19.28 gCO2e/kWh；未来风光与负荷输入由仿真器预先给定，结果不来自真实电网数据，也不代表减排。
+
+→ [查看仓库](https://github.com/Ethan-39/grid-carbon-signal)
+
+### BioLab Cold-Chain Watch
+
+冷链遥测教学回放，覆盖缺失数据、温度越界和异常用电，并只提示人工核查。固定仿真测试场景的点级 precision/recall 均为 1.00；阈值只是占位，原型不连接、不控制实验室设备，也不代表实验室适用性。
+
+→ [查看仓库](https://github.com/Ethan-39/biolab-cold-chain-watch)
+
 ### Energy Carbon Scenarios
 
 纯 Python 的小型情景计算器，练习从活动用电量和排放因子计算碳排与情景差异。当前示例因子只是占位输入，README 明确提示需替换为有出处的地区/年份数据。
