@@ -52,6 +52,24 @@ Gymnasium 环境入门练习，把车辆到达、充电桩、队列与电网负�
 
 → [查看仓库](https://github.com/Ethan-39/parking-lot-charging-env)
 
+<details>
+<summary>其他能源与碳管理演示项目</summary>
+
+- [Building Energy Benchmark](https://github.com/Ethan-39/building-energy-benchmark)：仿真建筑能耗强度与简化天气归一化比较。
+- [Solar Self-Consumption Sim](https://github.com/Ethan-39/solar-self-consumption-sim)：比较光伏自用与可移负荷情景。
+- [Campus Carbon Budget](https://github.com/Ethan-39/campus-carbon-budget)：用占位因子展示校园碳预算进度。
+- [Demand Response Evaluator](https://github.com/Ethan-39/demand-response-evaluator)：评估合成需求响应事件并报告基线误差。
+- [Battery Dispatch Sim](https://github.com/Ethan-39/battery-dispatch-sim)：带功率、效率和 SoC 约束的储能削峰模拟。
+- [Scope 2 Emissions Ledger](https://github.com/Ethan-39/scope2-emissions-ledger)：演示 Scope 2 两种记账口径，非合规盘查。
+- [Energy Data Quality Audit](https://github.com/Ethan-39/energy-data-quality-audit)：检查能源时序的缺失、重复、间隔异常和极端值。
+- [Green Lab Energy Audit](https://github.com/Ethan-39/green-lab-energy-audit)：根据虚构设备清单估算实验室能耗与排放。
+- [Occupancy Energy Anomaly Detector](https://github.com/Ethan-39/occupancy-energy-anomaly-detector)：用占用量校正合成能耗基线并筛查残差异常。
+- [Carbon Cost Pareto](https://github.com/Ethan-39/carbon-cost-pareto)：展示费用、碳排和舒适度之间的情景权衡。
+
+以上为合成或示例数据的教学原型，不代表实测减排、真实设施验证或可直接用于运行决策。
+
+</details>
+
 ## 工作方式
 
 - 先建立可解释的基线，再比较更复杂的模型。
