@@ -5,6 +5,7 @@
 **AI for Green · Energy Forecasting · Carbon Management**
 
 正在学习 Python 和机器学习，并尝试把它们用于可持续发展问题。
+该项目为试探性的学习和模拟原型
 
 [旗舰项目：MedEnergy](https://github.com/Ethan-39/medenergy) · [支撑项目](#supporting-projects)
 
