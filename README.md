@@ -39,7 +39,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan-39&show_icons=true&theme=radical&hide_title=true)
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan-39&show_icons=true&theme=radical&hide_title=true&hide_rank=true)
 
 **Energy Forecasting · Carbon Management**
 
