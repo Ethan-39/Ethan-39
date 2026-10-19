@@ -2,23 +2,46 @@
 
 # Ethan-39
 
-### 🏅 AI Certifications
-<p align="center">
-  <img src="./Agent Engineer认证" width="30%" />
-  <img src="./Prompt Engineer认证.jpg" width="30%" />
-  <img src="./Prompt Engineer认证" width="30%" />
-</p>
+
+
+### 🏅 AI Certifications (Datawhale & iFLYTEK)
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="33%">
+      <img src="./Fine-tuning Engineer认证.jpg" alt="Fine-tuning Engineer" width="100%" />
+      <br />
+      <b>Fine-tuning Engineer</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="./Prompt Engineer认证.jpg" alt="Prompt Engineer" width="100%" />
+      <br />
+      <b>Prompt Engineer</b>
+    </td>
+    <td align="center" width="33%">
+      <img src=".Agent Engineer认证.jpg" alt="Agent Engineer" width="100%" />
+      <br />
+      <b>Agent Engineer</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM-Application-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Local_Deployment-Security-green?style=for-the-badge" />
 </p>
 
-**AI for Green · Energy Forecasting · Carbon Management**
+---
+
+### 📊 GitHub Stats
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan-39&show_icons=true&theme=radical&hide_title=true)
+
+**Energy Forecasting · Carbon Management**
 
 正在学习 Python 和机器学习，并尝试把它们用于可持续发展问题。
 该项目为试探性的学习和模拟原型
