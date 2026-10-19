@@ -2,6 +2,22 @@
 
 # Ethan-39
 
+### 🏅 AI Certifications
+<p align="center">
+  <img src="./agent.png" width="30%" />
+  <img src="./prompt.png" width="30%" />
+  <img src="./finetune.png" width="30%" />
+</p>
+
+---
+
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-Application-blueviolet?style=for-the-badge" />
+</p>
+
 **AI for Green · Energy Forecasting · Carbon Management**
 
 正在学习 Python 和机器学习，并尝试把它们用于可持续发展问题。
