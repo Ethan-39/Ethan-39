@@ -4,7 +4,7 @@
 
 
 
-### 🏅 AI Certifications (Datawhale & iFLYTEK)
+### 🏅 AI Certifications (Datawhale & IFLYTEK)
 
 <table align="center" border="0">
   <tr>
