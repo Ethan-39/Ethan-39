@@ -19,7 +19,7 @@
       <b>Prompt Engineer</b>
     </td>
     <td align="center" width="33%">
-      <img src=".Agent Engineer认证.jpg" alt="Agent Engineer" width="100%" />
+      <img src="./Agent Engineer认证.jpg" alt="Agent Engineer" width="100%" />
       <br />
       <b>Agent Engineer</b>
     </td>
