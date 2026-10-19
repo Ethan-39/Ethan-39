@@ -4,9 +4,9 @@
 
 ### 🏅 AI Certifications
 <p align="center">
-  <img src="./agent.jpg" width="30%" />
-  <img src="./prompt.jpg" width="30%" />
-  <img src="./finetune.jpg" width="30%" />
+  <img src="./Agent Engineer认证" width="30%" />
+  <img src="./Prompt Engineer认证.jpg" width="30%" />
+  <img src="./Prompt Engineer认证" width="30%" />
 </p>
 
 ---
