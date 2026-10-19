@@ -4,9 +4,9 @@
 
 ### 🏅 AI Certifications
 <p align="center">
-  <img src="./agent.png" width="30%" />
-  <img src="./prompt.png" width="30%" />
-  <img src="./finetune.png" width="30%" />
+  <img src="./agent.jpg" width="30%" />
+  <img src="./prompt.jpg" width="30%" />
+  <img src="./finetune.jpg" width="30%" />
 </p>
 
 ---
